@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dx4JxCguTbgXK1rDePfheG5KcjfSOr3mhzVwMXKRQ4be+v0i8z0aeriHLuPDbckLJeIHdDMyLQSzVqutjikRtQ==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\Oncf_Ut\\Oncf_Ut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabriaymane\\.nuget\\packages\\nunit.consolerunner\\3.15.0\\nunit.consolerunner.3.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

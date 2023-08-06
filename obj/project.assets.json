@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "NUnit.ConsoleRunner/3.15.0": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "NUnit.ConsoleRunner/3.15.0": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "NUnit.ConsoleRunner/3.15.0": {
+        "type": "package"
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "NUnit.ConsoleRunner/3.15.0": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "NUnit.ConsoleRunner/3.15.0": {
+      "sha512": "YZ/O+QzWxkvq1LV6fIa73w5bh4qg187jFcEhI0t0WF0X2YyYNPCxJvvHtfDcNKvJnj+TTjPssIcgsZnHw31bKg==",
+      "type": "package",
+      "path": "nunit.consolerunner/3.15.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "images/nunit_256.png",
+        "nunit.consolerunner.3.15.0.nupkg.sha512",
+        "nunit.consolerunner.nuspec",
+        "tools/agents/net20/nunit-agent-x86.exe",
+        "tools/agents/net20/nunit-agent-x86.exe.config",
+        "tools/agents/net20/nunit-agent.exe",
+        "tools/agents/net20/nunit-agent.exe.config",
+        "tools/agents/net20/nunit.agent.addins",
+        "tools/agents/net20/nunit.engine.api.dll",
+        "tools/agents/net20/nunit.engine.api.xml",
+        "tools/agents/net20/nunit.engine.core.dll",
+        "tools/agents/net20/testcentric.engine.metadata.dll",
+        "tools/agents/net40/nunit-agent-x86.exe",
+        "tools/agents/net40/nunit-agent-x86.exe.config",
+        "tools/agents/net40/nunit-agent.exe",
+        "tools/agents/net40/nunit-agent.exe.config",
+        "tools/agents/net40/nunit.agent.addins",
+        "tools/agents/net40/nunit.engine.api.dll",
+        "tools/agents/net40/nunit.engine.api.xml",
+        "tools/agents/net40/nunit.engine.core.dll",
+        "tools/agents/net40/testcentric.engine.metadata.dll",
+        "tools/agents/net5.0/nunit-agent.deps.json",
+        "tools/agents/net5.0/nunit-agent.dll",
+        "tools/agents/net5.0/nunit-agent.dll.config",
+        "tools/agents/net5.0/nunit-agent.runtimeconfig.json",
+        "tools/agents/net5.0/nunit.agent.addins",
+        "tools/agents/net5.0/nunit.engine.api.dll",
+        "tools/agents/net5.0/nunit.engine.api.xml",
+        "tools/agents/net5.0/nunit.engine.core.dll",
+        "tools/agents/net5.0/testcentric.engine.metadata.dll",
+        "tools/agents/net6.0/nunit-agent.deps.json",
+        "tools/agents/net6.0/nunit-agent.dll",
+        "tools/agents/net6.0/nunit-agent.dll.config",
+        "tools/agents/net6.0/nunit-agent.runtimeconfig.json",
+        "tools/agents/net6.0/nunit.agent.addins",
+        "tools/agents/net6.0/nunit.engine.api.dll",
+        "tools/agents/net6.0/nunit.engine.api.xml",
+        "tools/agents/net6.0/nunit.engine.core.dll",
+        "tools/agents/net6.0/testcentric.engine.metadata.dll",
+        "tools/agents/netcoreapp3.1/nunit-agent.deps.json",
+        "tools/agents/netcoreapp3.1/nunit-agent.dll",
+        "tools/agents/netcoreapp3.1/nunit-agent.dll.config",
+        "tools/agents/netcoreapp3.1/nunit-agent.runtimeconfig.json",
+        "tools/agents/netcoreapp3.1/nunit.agent.addins",
+        "tools/agents/netcoreapp3.1/nunit.engine.api.dll",
+        "tools/agents/netcoreapp3.1/nunit.engine.api.xml",
+        "tools/agents/netcoreapp3.1/nunit.engine.core.dll",
+        "tools/agents/netcoreapp3.1/testcentric.engine.metadata.dll",
+        "tools/nunit.console.nuget.addins",
+        "tools/nunit.engine.api.dll",
+        "tools/nunit.engine.api.xml",
+        "tools/nunit.engine.core.dll",
+        "tools/nunit.engine.dll",
+        "tools/nunit3-console.exe",
+        "tools/nunit3-console.exe.config",
+        "tools/testcentric.engine.metadata.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "NUnit.ConsoleRunner >= 3.15.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\sabriaymane\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Oncf_Ut\\Oncf_Ut.csproj",
+      "projectName": "Silver-J",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\Oncf_Ut\\Oncf_Ut.csproj",
+      "packagesPath": "C:\\Users\\sabriaymane\\.nuget\\packages\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\Oncf_Ut\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\sabriaymane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "NUnit.ConsoleRunner": {
+            "target": "Package",
+            "version": "[3.15.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
